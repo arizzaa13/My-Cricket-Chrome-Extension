@@ -1,0 +1,17 @@
+{
+    "name": "My Chrome Extension Project",
+    "version": "1.0.0",
+    "description": "A Chrome Extension Project for Displaying Cricket Matches.",
+    "manifest_version": 3,
+    "author": "Mohd Arman",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png",
+
+        "default_title": "My Chrome Extension Project"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+
+}
